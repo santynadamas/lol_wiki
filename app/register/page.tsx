@@ -56,7 +56,7 @@ export default function LoginPage() {
             marginBottom: 24,
           }}
         >
-          Sign In
+          Sign Up
         </div>
 
         {/* Google Button */}
