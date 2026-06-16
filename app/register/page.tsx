@@ -198,7 +198,7 @@ export default function LoginPage() {
               cursor: "pointer",
             }}
           >
-            Sign In
+            Sign Up
           </button>
         </form>
 
