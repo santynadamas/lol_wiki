@@ -211,16 +211,16 @@ export default function LoginPage() {
             color: "#6e7681",
           }}
         >
-          Don't have an account?{" "}
+          You have an account?{" "}
           <Link
-            href="/register"
+            href="/login"
             style={{
               color: "#c8a032",
               textDecoration: "none",
               fontWeight: 600,
             }}
           >
-            Sign Up
+            Sign In
           </Link>
         </p>
       </div>
